@@ -28,6 +28,7 @@
 		36197F3B25CBD35300ECE2CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3647844F25CBDF55004A66CA /* Observables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Observables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		3647845225CC0B21004A66CA /* Publishers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Publishers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3647845425CC1293004A66CA /* Just-Of-From.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Just-Of-From.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		36CCF3E925CBD44700DB077E /* Begin.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Begin.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		64C0F8A659D780DD07E722F7 /* Pods-RxSwift-Study.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwift-Study.debug.xcconfig"; path = "Target Support Files/Pods-RxSwift-Study/Pods-RxSwift-Study.debug.xcconfig"; sourceTree = "<group>"; };
 		ECD64E9F867CA9EACA749889 /* Pods-RxSwift-Study.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwift-Study.release.xcconfig"; path = "Target Support Files/Pods-RxSwift-Study/Pods-RxSwift-Study.release.xcconfig"; sourceTree = "<group>"; };
@@ -92,6 +93,7 @@
 			children = (
 				3647844F25CBDF55004A66CA /* Observables.playground */,
 				3647845225CC0B21004A66CA /* Publishers.playground */,
+				3647845425CC1293004A66CA /* Just-Of-From.playground */,
 			);
 			path = LESSONS;
 			sourceTree = "<group>";
